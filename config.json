@@ -1,0 +1,8 @@
+{
+    "database":{
+        "userName":"root",
+        "password":"",
+        "hostName":"127.0.0.1",
+        "database":"mysql:host=127.0.0.1;dbname=autok;charset=utf8;port=3306"
+    }
+}
